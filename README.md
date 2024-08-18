@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Erik!
 
-Welcome to my GitHub profile! I'm a passionate management consultant with a master's degree in industrial engineering and management, and a strong interest in analytics and data science. I thrive on solving complex problems and leveraging data to drive strategic decisions
+Welcome to my GitHub profile! I'm a passionate management consultant with a master's degree in Industrial Engineering and Management, and a strong interest in analytics and data science. I thrive on solving complex problems and leveraging data to drive strategic decisions
 
 ## 🚀 Projects
 
