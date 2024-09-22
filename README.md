@@ -6,5 +6,5 @@ Welcome to my GitHub profile! I'm a passionate management consultant with a mast
 
 Here are a few projects I’m currently working on:
 
-- **[ML-model for flight price prediction](https://github.com/ErikBusk/ML_Flight_Price_Prediction)**: This project analyzes the Flight Price Prediction dataset to identify factors influencing flight prices. In addition, a machine learning model for predicting prices is developed
+- **[Comparing ML-models for Fraud Detection in Credit Card Transactions](https://github.com/ErikBusk/CreditCardTransactionsFraudDetection)**: In this project different ML-models are trained to detect fraudulent credit card transactions. The performance of the models are then compared to identify which is the most effective
 - **[Customer segmentation using unsupervised machine learning](https://github.com/ErikBusk/Mall_Customer_Segmentation)**: This projects examines customer data from a shopping mall. The purpose is to identify which customer segment that is best for the mall to target with marketing efforts
